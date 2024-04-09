@@ -51,14 +51,14 @@
   </a>
 </div>
 
-<br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
+<!-- <br> -->
+<!-- <h2 align="center">👽 Where to find me 👽</h2> -->
+<!-- <br> -->
 <!-- https://icons8.com -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://facebook.com/hailong.lehuu.50" target="blank">
     <img src="https://img.icons8.com/?size=48&id=118497&format=png" alt="bentleyle-facebook" />
-  </a> 
+  </a>
   <a href="https://www.linkedin.com/in/le-long-03696a301/" target="blank">
     <img src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="bentleyle-linkedin" />
   </a>
@@ -70,4 +70,4 @@
   </a>
 </div>
 
-<br>
+<br> -->
