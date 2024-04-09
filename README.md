@@ -45,11 +45,13 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
+<center>
 <div align=center>
   <a href="#" title="bentleyle">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=bentleyle&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
+</center>
 
 <!-- <br> -->
 <!-- <h2 align="center">👽 Where to find me 👽</h2> -->
