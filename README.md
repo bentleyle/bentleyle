@@ -48,7 +48,7 @@
 <center>
 <div align=center>
   <a href="#" title="bentleyle">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=bentleyle&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=bentleyle&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 </center>
