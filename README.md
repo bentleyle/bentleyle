@@ -48,7 +48,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/AdobePhotoshop-282C34?logo=adobephotoshop&logoColor=31A8FF" alt="AdobePhotoshop logo" title="AdobePhotoshop" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/Vercel?logo=vercel&logoColor=000000" alt="Vercel logo" title="Vercel" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman" height="25" /></span>
+&nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
