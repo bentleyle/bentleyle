@@ -43,7 +43,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Photoshop-282C34?logo=photoshop&logoColor=31A8FF" alt="Photoshop logo" title="Photoshop" height="25" /></span>
+<span><img src="https://img.shields.io/badge/AdobePhotoshop-282C34?logo=adobephotoshop&logoColor=31A8FF" alt="AdobePhotoshop logo" title="AdobePhotoshop" height="25" /></span>
 &nbsp;
 
 <br>
