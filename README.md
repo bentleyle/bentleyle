@@ -50,6 +50,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=000000" alt="Vercel logo" title="Vercel logo" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman logo" height="25" /></span>
+&nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
