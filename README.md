@@ -12,7 +12,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/NextJs-282C34?logo=nextjs&logoColor=000000" alt="NextJs logo" title="NextJs" height="25" /></span>
+<span><img src="https://img.shields.io/badge/NextDotJs-282C34?logo=nextdotjs&logoColor=000000" alt="NextDotJs logo" title="NextJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD1100" alt="Angular logo" title="Angular" height="25" /></span>
 &nbsp;
