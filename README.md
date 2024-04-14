@@ -16,15 +16,6 @@
 <span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD1100" alt="Angular logo" title="Angular" height="25" /></span>
 &nbsp;
 
-<span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=#77BB4" alt="PHP logo" title="PHP" height="25" /></span>
-&nbsp;
-
-<span><img src="https://img.shields.io/badge/Framer-282C34?logo=framer&logoColor=0055FF" alt="Framer logo" title="Framer" height="25" /></span>
-&nbsp;
-
-<span><img src="https://img.shields.io/badge/Axios-282C34?logo=axios&logoColor=5A29E4" alt="Axios logo" title="Axios" height="25" /></span>
-&nbsp;
-
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
@@ -48,9 +39,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+
 <span><img src="https://img.shields.io/badge/Trello-282C34?logo=trello&logoColor=0052CC" alt="Trello logo" title="Trello" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
