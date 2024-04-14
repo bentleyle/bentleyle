@@ -13,6 +13,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD1100" alt="Angular logo" title="Angular" height="25" /></span>
 &nbsp;
+
+<span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=#77BB4" alt="PHP logo" title="PHP.js" height="25" /></span>
+&nbsp;
+
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
