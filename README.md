@@ -1,3 +1,4 @@
+
 <a href="#" target="_blank">
   <img src="svg/bentleyle.svg" width="1200" alt="bentleyle-official" />
 </a>
@@ -10,6 +11,8 @@
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/NextJS-282C34?logo=nextdotjs&logoColor=000000" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD1100" alt="Angular logo" title="Angular" height="25" /></span>
 &nbsp;
@@ -49,7 +52,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/AdobePhotoshop-282C34?logo=adobephotoshop&logoColor=31A8FF" alt="AdobePhotoshop logo" title="AdobePhotoshop" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=000000" alt="Vercel logo" title="Vercel logo" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman logo" height="25" /></span>
+&nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
