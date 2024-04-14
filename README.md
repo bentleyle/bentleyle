@@ -1,4 +1,3 @@
-
 <a href="#" target="_blank">
   <img src="svg/bentleyle.svg" width="1200" alt="bentleyle-official" />
 </a>
@@ -18,6 +17,15 @@
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=#77BB4" alt="PHP logo" title="PHP.js" height="25" /></span>
+&nbsp;
+
+<span><img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=#77BB4" alt="PHP logo" title="PHP.js" height="25" /></span>
+&nbsp;
+
+<span><img src="https://img.shields.io/badge/Framer-282C34?logo=framer&logoColor=#0055FF" alt="Framer logo" title="Framer.js" height="25" /></span>
+&nbsp;
+
+<span><img src="https://img.shields.io/badge/Axios-282C34?logo=axios&logoColor=#5A29E4" alt="Axios logo" title="Axios.js" height="25" /></span>
 &nbsp;
 
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
@@ -57,6 +65,7 @@
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="Postman logo" height="25" /></span>
 &nbsp;
 <br>
+
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
